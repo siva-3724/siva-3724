@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @sivaprasath
+BE Computer Science and Engineering student at Sri Ramakrishna Institute of Technology
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning react UI development
 
 - 📫 How to reach me Sivaprasathp360@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:he/him
+
 
 <!---
 siva-3724/siva-3724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
