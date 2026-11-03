@@ -37,7 +37,7 @@ To grow as a Frontend Developer by creating innovative digital experiences, writ
 - **Email:** [sivaprasathp360@gmail.com](mailto:sivaprasathp360@gmail.com)
 - **GitHub:** [github.com/siva-3724](https://github.com/siva-3724)
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
-- **Portfolio:** [https://sivaportfoliowebsites.netlify.app/)
+- **Portfolio:** https://sivaportfoliowebsites.netlify.app/
 
 ---
 
