@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sivaprasath P
 
-### 🚀 Frontend Developer  | UI Developer
+
 
 I'm a passionate **Frontend Developer** with a B.E. in Computer Science and Engineering from **Sri Ramakrishna Institute of Technology, Coimbatore**.
 
